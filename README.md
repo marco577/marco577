@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Marco, I'm an applied mathematician and data scientist. I'm currently working on database systems, concurrent programming, and dashboards systems. 
+
 <!--
 **marco577/marco577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
